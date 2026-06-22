@@ -1,0 +1,2 @@
+Kaggle. (n.d.). Credit card fraud detection dataset. Retrieved June 21, 2026, from
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
